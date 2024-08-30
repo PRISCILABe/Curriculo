@@ -8,5 +8,9 @@ Formação acadêmica:
 •Escola João Antunes Alexandre 
 •1°Ano-C
 
+Projetos:
+•Scratch:Untitled-O personagem "cat", diz olá, faz pergunta e se despede.
+•
+
 
 
