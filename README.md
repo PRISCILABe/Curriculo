@@ -10,7 +10,10 @@ Formação acadêmica:
 
 Projetos:
 •Scratch:Untitled-O personagem "cat", diz olá, faz pergunta e se despede.
-•
+
+•Scratch:Untitled-2 O personagens "Steve", se move alguns passos à frente e fala algumas palavras.
+
+•Scratch:Untitled-3 Uma bolinha nomeada de "minha bolinha" que vai de encontro com uma raquete,"minha raquete", e assim se repete um processo de jogo, inspirado em: Ping-pong.
 
 
 
